@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbOBo8/hT/4xRnWTCyq4jaOTj1m9ocebaWg7zSP6j7Am6XZ74dW8PyYKb2RTrKOcojSWIaIKhBbkLSGjNr/8Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbate\\Projects\\passwordChecker\\passwordChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbate\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mbate\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mbate\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mbate\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
