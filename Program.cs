@@ -20,7 +20,7 @@ namespace PasswordChecker
             if (userPassword.Length >= minLength) {
                 score ++;
             } if (Tools.Contains(userPassword, uppercase)) {
-                score +=1;
+                score ++;
             } if (Tools.Contains(userPassword, lowercase)) {
                 score ++;
             } if (Tools.Contains(userPassword, digits)) {
